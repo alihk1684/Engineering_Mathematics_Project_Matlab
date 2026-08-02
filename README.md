@@ -128,5 +128,4 @@ All figures will be generated automatically.
 
 # Author
 
-Ali  
-Electrical Engineering Student
+Ali Heidari
